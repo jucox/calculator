@@ -1,0 +1,29 @@
+html {
+    background-color:blanchedalmond;
+}
+
+.calculator {
+    margin: auto;
+    width: 300px;
+}
+
+.result{
+    width: 300px;
+    height: 100px;
+    color: red;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.number {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 1px solid white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
